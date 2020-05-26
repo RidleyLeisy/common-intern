@@ -14,10 +14,9 @@ import urllib.request
 import re
 
 import time # to sleep
-
 # fill this in with your job preferences!
 PREFERENCES = {
-    "position_title": "Full-Stack Engineer",
+    "position_title": "Data Analyst",
     "location": "San Francisco, CA"
 }
 
@@ -128,7 +127,7 @@ def aggregate_links(driver):
 
 # 'main' method to iterate through all pages and aggregate URLs
 def getURLs():
-    driver = webdriver.Chrome(executable_path='/usr/local/bin/chromedriver')
+    driver = webdriver.Chrome(executable_path="C:/Users/Leisy/Documents/apps/common-intern/chromedriver")
     success = login(driver)
     if not success:
         # close the page if it gets stuck at some point - this logic can be improved
@@ -181,4 +180,4 @@ def getURLs():
     return allLinks
 
 # for testing purpose
-# getURLs(webdriver.Chrome())
+getURLs()

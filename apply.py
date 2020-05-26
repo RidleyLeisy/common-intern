@@ -5,36 +5,24 @@ import os # to get the resume file
 import time # to sleep
 import get_links
 
-# sample application links if we don't want to run get_links.py
-URL_g1 = 'https://boards.greenhouse.io/braintree/jobs/1316736?gh_jid=1316736&gh_src=1d1244401'
-URL_g2 = 'https://boards.greenhouse.io/gusto/jobs/1862076'
-URL_g4 = 'https://boards.greenhouse.io/thumbtack/jobs/1814883'
-URL_g3 = 'https://boards.greenhouse.io/lyft/jobs/4358047002?gh_jid=4358047002'
-URL_l1 = 'https://jobs.lever.co/figma/91da97b9-ff1d-4e08-a2f1-4867537e5eb2'
-URL_l2 = 'https://jobs.lever.co/blendlabs/2a469512-a8c2-44fa-a260-ef3ae0c90db7'
-URL_l3 = 'https://jobs.lever.co/affirm/5340f1d3-cd6d-44ef-a5c6-f9def8609d02'
-URL_l4 = 'https://jobs.lever.co/grandrounds/cbf92d6f-83c2-41a3-b1a7-350e338c76a7'
-
-# there's probably a prettier way to do all of this
-URLS = [URL_g1, URL_g2, URL_g3, URL_g4, URL_l1, URL_l2, URL_l3, URL_l4] # to test all the URLS
 
 # Fill in this dictionary with your personal details!
 JOB_APP = {
-    "first_name": "Harshi",
-    "last_name": "Bar",
-    "email": "info.harshibar@gmail.com",
-    "phone": "123-456-7890",
-    "org": "Self-Employed",
+    "first_name": "Ridley",
+    "last_name": "Leisy",
+    "email": "",
+    "phone": "",
+    "org": "Data Analyst Consultant",
     "resume": "resume.pdf",
-    "resume_textfile": "resume_short.txt",
-    "linkedin": "https://www.linkedin.com/",
-    "website": "www.youtube.com/harshibar",
-    "github": "https://github.com/harshibar",
-    "twitter": "www.twitter.com",
+    "resume_textfile": "resume.txt",
+    "linkedin": "https://www.linkedin.com/in/ridleyleisy/",
+    "website": "https://ridleyleisy.com",
+    "github": "https://github.com/RidleyLeisy",
+    "twitter": "N/A",
     "location": "San Francisco, California, United States",
-    "grad_month": '06',
-    "grad_year": '2021',
-    "university": "MIT" # if only o.O
+    "grad_month": '07',
+    "grad_year": '2016',
+    "university": "Kennesaw State University" # if only o.O
 }
 
 # Greenhouse has a different application form structure than Lever, and thus must be parsed differently

@@ -1,0 +1,51 @@
+                                                   San Francisco, CA                   github.com/RidleyLeisy
+
+Ridley Leisy                                       (678) 938-5306
+                                                   leisyridley@gmail.com
+                                                                                       medium.com/@leisyridley
+                                                                                       linkedin.com/in/RidleyLeisy
+                                                                                       ridleyleisy.com
+
+
+Skills
+Languages​: Python, SQL
+Frameworks​: Pandas, Numpy, Scikit-Learn, Dash/Plotly, Matplotlib, Seaborn,
+Software​: AWS, Heroku, Salesforce, Stripe, G-Suite, Bill.com, Google Analytics
+
+Experience
+App Academy - Data Analyst Consultant                                           02/2020 - Current
+   ● Attribution, funnel, and enrollment prediction analysis for online and in-person education programs
+   ● Crafting data driven narratives with SQL and Python to deliver actionable insights for executives
+
+App Academy - Multiple Roles                                                      08/2016 – 05/2019
+Program Manager
+   ●   Utilized data warehouses, SQL, and python visualization libraries to construct BI dashboards and manage KPIs
+   ●   Managed team of 4 for career accelerator program increasing NPS scores by 50%, increasing sales conversions by
+       ~40%, and initiating partnerships with $100M+ revenue companies
+   ● Spearheaded online program expansion practicing agile management
+Finance Associate
+   ●     Data wrangling and automating key processes using Python's Pandas library reducing time intensive tasks such as
+         monthly profitability reports, accounts receivable outlooks, and automatic reminders by ~90%
+   ●     Led entire accounts receivables, accounts payables, and delinquent accounts for 7 products grossing 15M+ in
+         annual revenue
+   ●     Maintained data assurance and auditable financial performance as apart of monthly closeouts
+
+Education
+Lambda School - Data Science                                                      05/2019 - 01/2020
+   ●     Lambda School is a 9+ month Computer Science & Software Engineering Academy that provides an immersive
+         hands-on curriculum with a track focused on Data Science
+
+Kennesaw State University - BBA Finance, Minor Applied Math                       08/2012 - 07/2016
+GPA: 3.8, Magna Cum Laude
+
+
+Hobbies/Projects
+Price My Airbnb -​ ​Live Page​ - ​Frontend​/​Backend
+Online pricing dashboard for Airbnb hosts
+    ● Scrapped, seeded postgres database, and configured hosting on AWS beanstalk
+
+CoinFlip -​ ​Backend
+NFL analytics for daily fantasy users
+   ● Built MySQL database with scheduled updates through Airflow ETL and Armchair Analysis API
+   ● Utilized Django backend with restful API to construct frontend visualizations through Highcarts.js
+
